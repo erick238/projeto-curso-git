@@ -1,2 +1,2 @@
 ECHO est  ativado.
-ECHO est  desativado.
+ECHO est  
